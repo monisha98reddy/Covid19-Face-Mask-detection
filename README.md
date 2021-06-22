@@ -15,4 +15,5 @@ CNN with DATA AUGMENTATION
 MODEL 3:
 MOBILENETV2 
 
-
+DATA SET :
+Web scraped dataset containing mask and no mask images
