@@ -4,3 +4,15 @@ To curb the spread were to wear masks and maintain 6 feet distance. Although vac
 many countries are still struggling. In order to aid in stopping the spread and identify individuals not following the safety policies,
 we aim to build an Object Detection and Convolution Neural Network based face mask and social distance detection system. 
 The dataset to be used contains numerous images of instances where people are with and without mask and the model aims to identify people violating safety policies and flag the images with violation concerns.
+
+
+MODEL 1 :
+CONVOLUTIONAL NEURAL NETWORK
+
+MODEL 2 :
+CNN with DATA AUGMENTATION
+
+MODEL 3:
+MOBILENETV2 
+
+
