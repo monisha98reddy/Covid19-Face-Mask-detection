@@ -23,8 +23,8 @@ Web scraped dataset containing mask and no mask images
 
 Team 8:
 
-Chasin Cauvery
-Monisha K S
-Sahana M
-Uday kumar K B
+Chasin Cauvery,
+Monisha K S,
+Sahana M,
+Uday kumar K B,
 Shiva Nikhil
