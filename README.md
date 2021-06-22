@@ -17,3 +17,5 @@ MOBILENETV2
 
 DATA SET :
 Web scraped dataset containing mask and no mask images
+
+![image](https://user-images.githubusercontent.com/63378154/122964267-b03fca80-d3a4-11eb-979a-9a7669a8133d.png)
