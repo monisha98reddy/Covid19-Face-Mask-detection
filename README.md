@@ -8,7 +8,7 @@ we aim to build an Object Detection and Convolution Neural Network based face ma
 The dataset to be used contains numerous images of instances where people are with and without mask and the model aims to identify people violating safety policies and flag the images with violation concerns.
 
 
-# MODEL 1 :
+## MODEL 1 :
 CONVOLUTIONAL NEURAL NETWORK
 
 # MODEL 2 :
