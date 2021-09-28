@@ -1,4 +1,4 @@
-# Covid19-Face-Mask-detection
+
 <img width="911" alt="Screenshot 2021-09-28 at 1 50 47 PM" src="https://user-images.githubusercontent.com/63378154/135051224-e848d740-8006-4be8-b302-d69fbf79572f.png">
 
 Covid-19 started in November 2019 and started to spread across the world killing 3.74 million people. 
